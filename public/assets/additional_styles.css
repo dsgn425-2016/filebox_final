@@ -1,7 +1,48 @@
 /* Additional styles */
 
 body {
+  background-color: rgb(251, 251, 251);
+  color: rgb (68, 68,68);
   font-family: "Open Sans";
+}
+
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
+.get-started {
+  background-color: white;
+}
+
+/*navigation styles*/
+.navigation-bar {
+  background-color: white;
+  height: 54px;
+}
+
+.navigation-color {
+  color: rgb(0,126,229) !important;
+}
+
+/*footer styles*/
+
+.h4-footer {
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: rgb(153,153,153) !important;
+}
+
+li {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
 }
 
 /* My standard vertical spacing classes */
