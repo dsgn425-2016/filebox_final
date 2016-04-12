@@ -2,6 +2,37 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251,251,251);
+  color: rgb(68,68,68);
+}
+
+h1,h2{
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p{
+  font-weight:300;
+  line-height:175%;
+  font-size:20px;
+}
+
+.special-background{
+  background-color: white;
+}
+
+.navbar-colors{
+  color: rgb(0,126,229) !important;
+}
+
+.footer-list{
+color: rgb(119,119,119);
+}
+
+.footer-list-title{
+  color:rgb(153,153,153);
+  font-size: 16px;
+  font-weight:700;
 }
 
 /* My standard vertical spacing classes */
