@@ -1,6 +1,7 @@
 /* Additional styles */
 
 body {
+  background: rgb(251, 251, 251) !important;
   font-family: "Open Sans";
 }
 
@@ -80,4 +81,30 @@ body {
 
 .margin-below-bottom-xl {
   margin-bottom: 200px;
+}
+
+/*additional CSS*/
+
+h1, h2 {
+  font-family: "Open Sans";
+  font-weight: 200;
+  line-height: 125%;
+}
+
+.navbar {
+  background: rgb(255, 255, 255) !important;
+}
+
+.navbar a {
+  color: rgb(0,126,229) !important;
+}
+
+p {
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 175%;
+}
+
+.btm-form-bkg {
+  background: rgb(255, 255, 255) !important;
 }
