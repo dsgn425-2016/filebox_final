@@ -107,21 +107,17 @@ p{
   line-height: 175%;
 }
 
-.bottom-row-override{
+.get-started-now{
   background-color: #fff !important;
 }
 
-.footer-nav-override{
+footer{
   color: rgb(119,119,119) !important;
-  padding-bottom: 9%;
+  line-height: 200%;
 }
 
 h4{
   font-weight: 700;
   font-size: 16px;
   color: rgb(153,153,153);
-}
-
-.footer-nav-override ul{
-  line-height: 200%;
 }
