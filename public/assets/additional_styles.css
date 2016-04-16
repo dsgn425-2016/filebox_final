@@ -4,6 +4,21 @@ body {
   font-family: "Open Sans";
 }
 
+.navbaraddl {
+  color: rgb(0,126,229) !important;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
@@ -80,4 +95,16 @@ body {
 
 .margin-below-bottom-xl {
   margin-bottom: 200px;
+}
+
+footer h4 {
+  color: rgb(153,153,153);
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+footer li {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
 }
