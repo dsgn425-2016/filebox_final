@@ -1,6 +1,9 @@
 /* Additional styles */
 
+
 body {
+  background-color: rgb(251, 251, 251);
+  color: rgb(68,68,68);
   font-family: "Open Sans";
 }
 
@@ -99,4 +102,8 @@ p {
 
 .navbar{
   background-color:white;
+}
+
+.get-started-now {
+  background-color: white;
 }
