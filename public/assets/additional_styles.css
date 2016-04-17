@@ -2,6 +2,26 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251,251,251);
+  color: rgb(68,68,68);
+}
+
+h2{
+    color: rgb(68,68,68);
+}
+
+.navbar
+{
+  background-color: white;
+}
+
+.navbar a{
+  color: rgb(0,126,229) !important;
+}
+
+h1{
+  font-weight: 300;
+  line-height: 125%;
 }
 
 /* My standard vertical spacing classes */
