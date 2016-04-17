@@ -102,11 +102,6 @@ h2 {
     display: block;
 }
 
-h1, h2, h3 {
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
 p {
     font-size: 20px;
     font-weight: 300;
@@ -123,4 +118,21 @@ p {
 
 .navbar a {
     color: rgb(0,126,229) !important;
+}
+
+footer h4 {
+  color: rgb(153,153,153);
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+footer li {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
+}
+
+.container-fluid {
+  margin-left: -500px;
+  margin-right: -500px;
 }
