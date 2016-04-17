@@ -2,8 +2,37 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251, 251, 251);
+  line-height: 1.42857143;
+}
+.navbar{
+  background-color: white;
+
+}
+h1,h2{
+  font-weight: 300;
+  line-height: 125%;
+  color: rgb(68,68,68);
+}
+h4{
+  color: rgb(153,153,153);
+  font-weight: 700;
+  font-size: 12pt;
+  margin-bottom: 10px;
+}
+li{
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
+}
+p{
+  font-size: 15pt;
+  font-weight: 300;
+  line-height: 175%;
 }
 
+.almost-foot{
+  background-color: rgb(255,255,255);
+}
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
