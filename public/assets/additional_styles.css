@@ -23,6 +23,11 @@ p {
   background-color: white;
 }
 
+h1, h2 {
+    font-weight: 300;
+    line-height: 125%;
+}
+
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
