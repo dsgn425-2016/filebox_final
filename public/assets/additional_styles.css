@@ -16,11 +16,7 @@ body {
   color: rgb(0,126,229) !important;
 }
 
-/* Content */
-.get-started {
-  background-color: white;
-}
-
+/* Body */
 h1, h2 {
   font-weight: 300;
   line-height: 125%;
@@ -30,6 +26,10 @@ p {
   font-size: 20px;
   font-weight: 300;
   line-height: 175%;
+}
+
+.get-started {
+  background-color: white;
 }
 
 /* Footer styles*/
