@@ -81,3 +81,32 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+
+.mast_head{
+  height: 76px;
+      font-size: 0;
+      background-color: #fff;
+  vertical-align: middle;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.blue-font{
+  color: rgb(0, 126, 229)!important;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.no-backgrnd{
+  background: none;
+}
+
+.center-logo{
+  vertical-align: middle;
+  margin: 13px auto;
+    width: 180px;
+    position: relative;
+            font-size: 30px;
+    text-align: left;
+    display: block;
+  ]
