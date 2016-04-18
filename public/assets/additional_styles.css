@@ -11,7 +11,7 @@ body {
 }
 
 .get-started-now {
-  background-color: white;
+  background-color: white !important;
 }
 
 footer h4 {
