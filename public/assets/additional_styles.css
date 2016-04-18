@@ -2,14 +2,47 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251,251,251);
+  color: rgb(68,68,68);
 }
-
+.navbar a{
+  color: rgb(0,126,229) !important;
+}
+h1, h2 {
+  line-height: 125%;
+  font-weight: 300;
+}
+h2{
+    font-size: 30px;
+}
+p {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 175%;
+}
+.white-background {
+  background-color: white;
+}
+footer h4 {
+    color: rgb(153,153,153);
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+footer li{
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
+}
+.navbar-default .navbar-brand {
+  background-color: rgb(255,255,255);
+}
+.navbar{
+  background-color: white;
+}
 /* My standard vertical spacing classes */
-
 .padding-inside-top-xs {
   padding-top: 10px;
 }
-
 .padding-inside-top-sm {
   padding-top: 20px;
 }
