@@ -20,6 +20,11 @@ body {
 
 .padding-inside-top-lg {
   padding-top: 150px;
+  color: rgb(0, 126, 229);
+}
+
+.hero-font{
+color: rgb(0, 126, 229);
 }
 
 .padding-inside-top-xl {
@@ -87,13 +92,23 @@ body {
       font-size: 0;
       background-color: #fff;
   vertical-align: middle;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 6px;
+  padding-bottom: 2px;
 }
 
 .blue-font{
   color: rgb(0, 126, 229)!important;
   font-weight: bold;
+  padding-top: 6px!important;
+  padding-bottom: 6px!important;
+  font-size: 14px;
+}
+
+.blue-font-2{
+  color: rgb(0, 126, 229)!important;
+  font-weight: bold;
+  padding-top: 2px!important;
+  padding-bottom: 6px!important;
   font-size: 18px;
 }
 
@@ -102,11 +117,15 @@ body {
 }
 
 .center-logo{
+  color: rgb(0, 126, 229)!important;
+  font-weight: bold;
+  padding-top: 6px!important;
+  padding-bottom: 6px!important;
+  font-size: 18px;
   vertical-align: middle;
   margin: 13px auto;
     width: 180px;
     position: relative;
-            font-size: 30px;
     text-align: left;
     display: block;
   ]
