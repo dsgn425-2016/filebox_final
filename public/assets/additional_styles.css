@@ -2,7 +2,53 @@
 
 body {
   font-family: "Open Sans";
+  color: rgb(68,68,68);
+  background: rgb(251,251,251);
 }
+
+.whiteheader{
+  background-color: white;
+}
+
+.bluefont {
+    color: rgb(0, 126, 229) !important;
+}
+
+.bluefontunderline {
+    color: rgb(0, 126, 229) !important;
+    text-decoration: underline;
+}
+
+h1,h2{
+  font-weight:300;
+  line-height: 125%;
+}
+
+h4 {
+  color: rgb(153,153,153);
+  font-size: 16px;
+  font-weight:700;
+  margin-bottom: 10px;
+}
+
+li{
+    color: rgb(119,119,119);
+    margin-bottom:10px;
+}
+
+p{
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
+.whitebg{
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 150px;
+  background-size: 100% auto !important;
+}
+
 
 /* My standard vertical spacing classes */
 
